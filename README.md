@@ -86,9 +86,11 @@ The best-performing model (Random Forest) was used to make predictions for the 2
 ## 🔮 Sample Prediction Output
 
 ```text
-🎯 Top 5 MVP Candidates for the 2025 Season – Random Forest Model
-1. Nikola Jokić (Probability: 0.7423)
-2. Luka Dončić (Probability: 0.6831)
-3. Jayson Tatum (Probability: 0.6217)
-4. Shai Gilgeous-Alexander (Probability: 0.6095)
-5. Giannis Antetokounmpo (Probability: 0.5802)
+🎯🎯 2025 Most Valuable Player (MVP) Prediction – Random Forest
+
+1. Nikola Jokic              (Probability: 0.5500)
+2. Shai Gilgeous Alexander   (Probability: 0.2900)
+3. Giannis Antetokounmpo     (Probability: 0.2200)
+4. Domantas Sabonis          (Probability: 0.1900)
+5. Luka Dončić               (Probability: 0.1300)
+
